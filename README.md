@@ -1,7 +1,7 @@
 # The Gaming Room - Software Design Document (CS-230 Operating Platforms)
 ### Project Summary
 
-### What did you do particularly well in developing this documentation?
+## What did you do particularly well in developing this documentation?
 
 ### What about the process of working through a design document did you find helpful when developing the code?
 
